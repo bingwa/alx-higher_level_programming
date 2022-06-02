@@ -1,7 +1,7 @@
 #1/usr/bin/python3
 if __name__ == "__main__":
     from sys import argv
-    from calculator_1 import add, sub, mul, div
+    from 100-my_calculator import a operator b
     count = len(argv)
 
     if count != 4:
